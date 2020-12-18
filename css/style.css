@@ -212,19 +212,3 @@
 .change .line-3 {
     transform: rotateZ(405deg) translate(-8px, -6px);;
 }
-
-.about.visible {
-    display: inline;
-    left: 50%;
-    position: absolute;
-    top: 50%;
-    right: 10%;
-    transform: translateY(-50%);
-    color: #fff; 
-    line-height: 2;
-    font-size: 25px;
-}
-
-.about {
-    display: none;
-}
